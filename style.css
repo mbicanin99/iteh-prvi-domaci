@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+#tbl-laptop {
+    padding-top: 5px;
+}
+
+#naslov {
+    margin-top: 15px;
+}
