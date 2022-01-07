@@ -25,7 +25,7 @@
                     <th>Procesor</th>
                     <th>RAM</th>
                     <th>HDD</th>
-                    <th>Cena</th>
+                    <th>Cena RSD</th>
                     <th>Izmena</th>
                     <th>Brisanje</th>
                 </tr>

@@ -18,7 +18,7 @@
            <td><?php echo $laptop['ram'] ?></td>
            <td><?php echo $laptop['hdd'] ?></td>
            <td><?php echo $laptop['cena'] ?></td>
-           <td><button type="button" class="btn btn-warning" value="<?php echo $laptop['id'] ?>">Izmena</button></td>
+           <td><button type="button" class="btn btn-warning" value="<?php echo $laptop['id'] ?>" id="izmena_dugme">Izmena</button></td>
            <td><button type="button" class="btn btn-danger" value="<?php echo $laptop['id'] ?>" id="obrisi_dugme">Brisanje</button></td>
        </tr>
 
