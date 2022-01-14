@@ -14,7 +14,7 @@
 <body>
 
     <h2 class="text-center" id="naslov">Dobro došli na Laptop World!</h2>
-
+    <a href="dodaj.php"><button class="btn btn-primary" id="button_dodaj">Dodaj novi</button></a>
     <div class="container">
         <table id="tbl-laptop" class="display" style="width:1350px">
             <thead>

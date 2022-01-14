@@ -3,7 +3,7 @@
 }
 
 .container {
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 #tbl-laptop {
@@ -12,4 +12,18 @@
 
 #naslov {
     margin-top: 15px;
+}
+
+#button_dodaj {
+    margin-left: 320px;
+}
+
+#forma-dodaj {
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 400px;
+}
+
+#dugme {
+    margin-left: 150px;
 }
